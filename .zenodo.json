@@ -1,0 +1,36 @@
+{
+  "creators": [
+    {
+      "name": "Dahan, Bat-El",
+      "affiliation": "QuantyMize Quantum Advance Ltd"
+    },
+    {
+      "name": "Porat, Daniel",
+      "affiliation": "QuantyMize Quantum Advance Ltd"
+    },
+    {
+      "name": "Dalla Torre, Emanuele G.",
+      "affiliation": "QuantyMize Quantum Advance Ltd"
+    }
+  ],
+  "title": "AWS quantum-routing hardware results for Encoding Matters",
+  "description": "AWS quantum-processing-unit measurement results supporting the paper Encoding Matters: A Qubit-Efficient Reformulation for Quantum Resilient Routing.",
+  "version": "1.0.0",
+  "access_right": "open",
+  "upload_type": "dataset",
+  "language": "eng",
+  "keywords": [
+    "quantum routing",
+    "QAOA",
+    "quantum optimization",
+    "QUBO",
+    "AWS Braket"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.48550/arXiv.2610.13621",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    }
+  ]
+}

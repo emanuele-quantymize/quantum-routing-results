@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "AWS quantum-routing hardware results for Encoding Matters"
+version: 1.0.0
+date-released: 2026-10-18
+type: dataset
+abstract: >-
+  AWS quantum-processing-unit measurement results supporting the paper
+  Encoding Matters: A Qubit-Efficient Reformulation for Quantum Resilient
+  Routing.
+message: "If you use these data, please cite the archived release and the associated paper."
+authors:
+  - given-names: Bat-El
+    family-names: Dahan
+    affiliation: QuantyMize Quantum Advance Ltd
+  - given-names: Daniel
+    family-names: Porat
+    affiliation: QuantyMize Quantum Advance Ltd
+  - given-names: Emanuele G.
+    family-names: Dalla Torre
+    affiliation: QuantyMize Quantum Advance Ltd
+keywords:
+  - quantum routing
+  - QAOA
+  - quantum optimization
+  - QUBO
+  - AWS Braket
+repository-code: "https://github.com/quantymize2/quantum-routing-results"
