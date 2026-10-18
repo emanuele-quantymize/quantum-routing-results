@@ -3,6 +3,8 @@ title: "AWS quantum-routing hardware results for Encoding Matters"
 version: 1.0.1
 date-released: 2026-10-18
 type: dataset
+doi: 10.5281/zenodo.23454349
+url: "https://doi.org/10.5281/zenodo.23454349"
 abstract: >-
   AWS quantum-processing-unit measurement results supporting the paper
   Encoding Matters: A Qubit-Efficient Reformulation for Quantum Resilient
