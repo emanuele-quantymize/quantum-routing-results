@@ -15,7 +15,7 @@
   ],
   "title": "AWS quantum-routing hardware results for Encoding Matters",
   "description": "AWS quantum-processing-unit measurement results supporting the paper Encoding Matters: A Qubit-Efficient Reformulation for Quantum Resilient Routing.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "access_right": "open",
   "upload_type": "dataset",
   "language": "eng",
