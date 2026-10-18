@@ -24,4 +24,4 @@ keywords:
   - quantum optimization
   - QUBO
   - AWS Braket
-repository-code: "https://github.com/quantymize2/quantum-routing-results"
+repository-code: "https://github.com/emanuele-quantymize/quantum-routing-results"
